@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<constants>
+	<tileSize>
+		<width>32</width>
+		<height>32</height>
+	</tileSize>
+	<totalMaps>4</totalMaps>
+	<backgroundMusic>
+		<url>../audio/potential/dkc3purs[1].mp3</url>
+	</backgroundMusic>
+	<doorsImages>
+	</doorsImages>
+</constants>

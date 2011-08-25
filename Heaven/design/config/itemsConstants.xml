@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemsConstants>
+	<items>
+		<item>
+			<imageUrl>../art/items/potion.png</imageUrl>
+			<offset>
+				<x>3</x>
+				<y>3</y>
+				<width>20</width>
+				<height>20</height>
+			</offset>
+			<name>potion</name>
+			<stats>
+				<hp>750</hp>
+			</stats>
+		</item>
+		<item>
+			<imageUrl>../art/items/ether.png</imageUrl>
+			<offset>
+				<x>5</x>
+				<y>7</y>
+				<width>20</width>
+				<height>25</height>
+			</offset>
+			<name>ether</name>
+			<stats>
+				<mp>100</mp>
+			</stats>
+		</item>
+	</items>
+</itemsConstants>

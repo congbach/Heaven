@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item>
+		<name>potion</name>
+		<code>1</code>
+	</item>
+	<item>
+		<name>ether</name>
+		<code>2</code>
+	</item>
+</items>

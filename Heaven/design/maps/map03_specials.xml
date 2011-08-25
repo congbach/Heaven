@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<doors>
+		<door>
+			<coordinate>
+				<row>11</row>
+				<col>57.75</col>
+			</coordinate>
+			<size>
+				<width>0.25</width>
+				<height>2</height>
+			</size>
+			<id>5</id>
+			<destinationDoorId>4</destinationDoorId>
+			<destinationMapId>2</destinationMapId>
+		</door>
+	</doors>
+</map>
